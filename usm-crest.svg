@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="160" height="160">
+  <rect width="200" height="200" rx="20" fill="#ffffff"/>
+  <circle cx="100" cy="80" r="44" fill="#5C2E91"/>
+  <text x="100" y="90" font-family="Lora, serif" font-size="22" fill="#fff" text-anchor="middle">USM</text>
+  <rect x="20" y="140" width="160" height="12" rx="6" fill="#C5A047" />
+</svg>
